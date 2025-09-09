@@ -32,7 +32,7 @@ The query was built using **CTEs (Common Table Expressions)** to split the logic
 ---
 
 ## 📂 Project Structure
-- **`query.sql`** → full SQL query
+- **`slots.sql`** → full SQL query
 - **`README.md`** → project description 
 - **`example_output.jpg`** → sample output of the query
 
